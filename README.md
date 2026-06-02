@@ -41,5 +41,7 @@ Here are some projects I am working on:
 
 ## Connect With Me
 📧 Email: frankbobie8@gmail.com
+    LinkedIn: https://www.linkedin.com/in/frank-owusu-394a28282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 Thanks for visiting my profile!
