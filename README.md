@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Frank Bobie Owusu 👋
 
-<!--
-**frankbobie8-eng/frankbobie8-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Education Student (Information and Communication Technology & Economics) at the University of Cape Coast (UCC).
 
-Here are some ideas to get you started:
+💻 I am passionate about:
+- Software Engineering
+- Data Analysis
+- Educational Technology
+- Digital Transformation
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Git & GitHub
+- Software Development
+- Data Engineering and Analysis
+- Experience Engineering
+- Systems Engineering
+
+## Skills
+- Microsoft Office Suite
+- HTML & CSS
+- Git & GitHub
+- Scratch Programming
+- Educational Technology Tools
+- Data Analysis
+
+## Projects
+Here are some projects I am working on:
+
+- ICT Lesson Plans
+- Educational Technology Projects
+- Scratch Programming Projects
+- Software Engineering Coursework
+- Data Analysis Projects
+
+## Goals
+- Build practical software development skills
+- Contribute to open-source projects
+- Develop solutions that support teaching and learning
+- Grow as a technology professional
+
+## Connect With Me
+📧 Email: frankbobie8@gmail.com
+
+Thanks for visiting my profile!
